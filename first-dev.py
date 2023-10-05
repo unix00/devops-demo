@@ -1,4 +1,5 @@
 a = 100
-b = 2
+b = 5
 c = a/b
-print "division of 2 number is ",c
+d = c+b 
+print "division of 2 number is ",d
